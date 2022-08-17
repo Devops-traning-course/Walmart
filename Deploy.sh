@@ -1,2 +1,3 @@
+Am deploing from the uat branch
 Hello this file contains deployment script ...
-thanks for acceting this 
+
